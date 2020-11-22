@@ -1,0 +1,30 @@
+.Weather {
+  border: 1px solid burlywood;
+  padding: 16px;
+  border-radius: 4px;
+}
+.Weather button {
+  background-color: #ede7d5;
+}
+
+.Weather h1 {
+  color: #c1d3d1;
+  display: block;
+  font-family: cursive;
+  font-size: 30px;
+  font-weight: 100;
+  line-height: 29px;
+  margin: 20px 0 0 0;
+}
+.Weather ul {
+  margin: 0;
+  padding: 0;
+}
+
+.Weather li {
+  color: #978c85;
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 19px;
+  list-style: none;
+}
