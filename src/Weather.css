@@ -42,12 +42,11 @@
   line-height: 64px;
 }
 .Weather .unit {
-    color: #b57955;
-    font-size: 16px;
-    font-weight: 400;
-    position: relative;
-    line-height: 1;
-    top: -32px;
-    margin-left:  6px;
-
+  color: #b57955;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  line-height: 1;
+  top: -32px;
+  margin-left: 0px;
 }
