@@ -11,7 +11,7 @@ export default function Weather(props) {
 
     function handleResponse(response) {
         setWeatherData({ 
-            ready: false,
+            ready: true,
             temperature: response.data.main.temp,
             city: response.data.name,
             date:  new Date(response.data.dt  *  1000),
@@ -68,7 +68,7 @@ export default function Weather(props) {
 
      } else {
          search();
-         return "Loading..."
+         return "Loading...";
      }
         
 }
