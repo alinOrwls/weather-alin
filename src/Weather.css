@@ -8,7 +8,7 @@
 }
 
 .Weather h1 {
-  color: #c1d3d1;
+  color: #a9ccc8;
   display: block;
   font-family: cursive;
   font-size: 30px;
@@ -28,8 +28,7 @@
   line-height: 19px;
   list-style: none;
 }
-.Weather img {
-  height: 64px;
+.Weather canvas {
   margin-right: 10px;
   display: inline-block;
 }
